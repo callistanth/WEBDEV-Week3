@@ -20,9 +20,9 @@
     </head>
     <body style="background: olive; display: flex; flex-direction: column; min-height: 100vh; justify-content: center; padding: 60px 80px; margin: 0; box-sizing: border-box;">
         <div style="display: flex; gap: 30px;">
-            <a href="/welcome" style="color: white; text-decoration: none;">Home</a>
-            <a href="/project" style="color: white; text-decoration: none;">About</a>
-            <a href="/contact" style="color: white; text-decoration: none;">Contact</a>
+            <a href="/" style="color: white; ">Home</a>
+            <a href="/project" style="color: white; ">About</a>
+            <a href="/contact" style="color: white; ">Contact</a>
         </div>
         
         <h1 style="font-size: 80px; color: white;"><?=$title?></h1>
